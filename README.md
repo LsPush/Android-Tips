@@ -9,7 +9,14 @@
     - Select Miscellaneous tab
     - Untick Show logcat automatically
 
-    ![img](./img/logcat_window.webp)
+    ![logcat_window](./img/logcat_window.webp)
+
+
+## Android Studio
+
+- [Ctrl + Shift + I over a method to show its implementation in a modal window](https://plus.google.com/+LuisGonz%C3%A1lezValle/posts/5thU2dwYgmm)
+
+    ![implement_modal_window](./img/implement_modal_window.gif)
 
 ## Tips
 
