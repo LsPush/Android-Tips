@@ -67,10 +67,3 @@ Definitively check it out. It is a game changer.
 - [android-tips-tricks](https://github.com/nisrulz/android-tips-tricks)
 
 - [Luis G. Valle (lgvalle) - Google+](https://plus.google.com/+LuisGonz%C3%A1lezValle)
-
-
-
-
-
-
-[3] DrawableCompat https://developer.android.com/reference/android/support/v4/graphics/drawable/DrawableCompat.html
